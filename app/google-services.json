@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "316746477791",
+    "firebase_url": "https://chatbox-8df59.firebaseio.com",
+    "project_id": "chatbox-8df59",
+    "storage_bucket": "chatbox-8df59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316746477791:android:7960b790048c8e36",
+        "android_client_info": {
+          "package_name": "com.the_pyrox.chatbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316746477791-ij4ceakjg8sv8gmfnd8vpau14508lbda.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.the_pyrox.chatbox",
+            "certificate_hash": "51D991528A9F7BE35B3588BB80E63747A82D2ABC"
+          }
+        },
+        {
+          "client_id": "316746477791-47kai61tclf6q4kkomk6l1heqrps2qsk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEE2tpOvyTS3UceFHkZR7s8DIOxAyf9Yk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316746477791-47kai61tclf6q4kkomk6l1heqrps2qsk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
